@@ -1,0 +1,11 @@
+id_usuario,usuario,correo,rol,estado
+US402, user_2 ,user223gmail.com,operador,activo
+US420,user_20 ,user2018gmail.com,supervisor,inactivo
+US429,user_29,user2998empresa.com,operador,inactivo
+US459,user_59,sin_correo,operador,inactivo
+US477,user_77,sin_correo, admin ,activo
+US484,user_84,sin_correo,supervisor,inactivo
+US494,user_94,sin_correo,supervisor,inactivo
+US501,user_101,sin_correo,supervisor,inactivo
+US510,user_110,user11092gmail.com,auditor,inactivo
+US516,user_116,sin_correo,supervisor,activo
