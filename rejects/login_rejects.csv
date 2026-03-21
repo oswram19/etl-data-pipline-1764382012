@@ -1,0 +1,10 @@
+id_login,id_usuario,fecha_login,ip,login_hour,login_day,login_month,login_year,is_valid_ip
+LG6011,US410,2024-09-30 00:00:00,ip_desconocida,0,30,9,2024,False
+LG6015,US409,2024-09-30 00:00:00,ip_desconocida,0,30,9,2024,False
+LG6049,US486,2024-10-18 22:00:00,999.999.1.1,22,18,10,2024,False
+LG6073,US428,2024-09-09 13:00:00,ip_desconocida,13,9,9,2024,False
+LG6114,US519,2024-09-09 13:00:00,999.999.1.1,13,9,9,2024,False
+LG6127,US475,2024-09-09 13:00:00,999.999.1.1,13,9,9,2024,False
+LG6142,US413,2024-09-09 13:00:00,ip_desconocida,13,9,9,2024,False
+LG6192,US402,2024-09-09 13:00:00,ip_desconocida,13,9,9,2024,False
+LG6194,US416,2024-09-09 13:00:00,ip_desconocida,13,9,9,2024,False
