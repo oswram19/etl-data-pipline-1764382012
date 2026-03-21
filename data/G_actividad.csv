@@ -1,0 +1,247 @@
+id_actividad,id_usuario,accion,fecha_actividad,modulo
+ACT9000,US518,actualizar pedido,2024-05-20 07:00:00,seguridad
+ACT9001,US512,cambio clave ,2024-11-02 12:00:00,reportes
+ACT9002,US450,logout,2024-08-29 19:00:00,usuarios
+ACT9003,US467,consulta,2024-04-16 14:00:00,seguridad
+ACT9004,US420,consulta,2024-08-08 05:00:00,inventario
+ACT9005,US477,consulta,2024-09-17 19:00:00,seguridad
+ACT9006,US479,cambio clave,2024-07-07 11:00:00,ventas
+ACT9007,US448,cambio clave,2024-09-09 06:00:00,reportes
+ACT9008,US408,logout,2024-04-27 21:00:00,seguridad
+ACT9009,US440,actualizar pedido,2024-07-27 11:00:00,inventario
+ACT9010,US440,cambio clave,2024-10-13 10:00:00,ventas
+ACT9011,US510, logout ,2024-02-19 11:00:00,inventario
+ACT9012,US465,logout,2024-11-13 17:00:00,ventas
+ACT9013,US430,login,2024-07-19 03:00:00,inventario
+ACT9014,,login,2024-03-11 19:00:00,inventario
+ACT9015,US447,crear pedido,31/15/2024,usuarios
+ACT9016,US462,login,2024-08-16 09:00:00,seguridad
+ACT9017,US453,anular pedido,2024-02-20 22:00:00,inventario
+ACT9018,US449,cambio clave,2024-05-03 13:00:00,seguridad
+ACT9019,US500,cambio clave,2024-07-30 09:00:00,reportes
+ACT9020,US476,consulta,2024-01-31 03:00:00,inventario
+ACT9021,US424,logout,2024-07-13 00:00:00,inventario
+ACT9022,US465,cambio clave,2024-10-04 16:00:00,reportes
+ACT9023,US497, crear pedido ,2024-06-10 10:00:00,seguridad
+ACT9024,US494,logout,2024-08-03 23:00:00,seguridad
+ACT9025,US439,crear pedido,2024-03-17 13:00:00,seguridad
+ACT9026,US441,actualizar pedido,2024-04-15 18:00:00,inventario
+ACT9027,US452,cambio clave,2024-06-03 14:00:00,ventas
+ACT9028,US444,login,2024-05-06 12:00:00,usuarios
+ACT9029,US491,crear pedido,2025/99/10,usuarios
+ACT9030,,logout,2024-03-22 01:00:00,usuarios
+ACT9031,US492,crear pedido,2024-09-15 19:00:00,inventario
+ACT9032,US509,logout,2024-05-23 01:00:00,reportes
+ACT9033,US9999,anular pedido,2024-10-06 05:00:00,inventario
+ACT9034,,anular pedido,2024-04-24 15:00:00,usuarios
+ACT9035,US432,cambio clave,2024-03-20 07:00:00,inventario
+ACT9036,US460,consulta,2024-01-27 07:00:00,seguridad
+ACT9037,,cambio clave,2024-10-18 12:00:00,reportes
+ACT9038,US472,logout,2024-04-30 12:00:00,reportes
+ACT9039,US445,cambio clave,2024-04-27 20:00:00,ventas
+ACT9040,US460,anular pedido,2024/08/21 14:00:00,seguridad
+ACT9041,US453,crear pedido,2024-03-23 11:00:00,usuarios
+ACT9042,US435,consulta,2024-09-18 01:00:00,ventas
+ACT9043,US514,crear pedido,2024-11-11 08:00:00,inventario
+ACT9044,US438,consulta,2024-03-08 12:00:00,ventas
+ACT9045,US498,cambio clave,2024-09-28 04:00:00,usuarios
+ACT9046,US491,cambio clave,2024-02-13 22:00:00,usuarios
+ACT9047,US519,consulta,2024-10-12 16:00:00,reportes
+ACT9048,US428,anular pedido,2024-07-16 19:00:00,reportes
+ACT9049,US472,login,2024-11-10 13:00:00,seguridad
+ACT9050,US412,login,2024-07-16 19:00:00,seguridad
+ACT9051,US412,crear pedido,2024-06-23 18:00:00,ventas
+ACT9052,US437,consulta,2024-11-28 00:00:00,seguridad
+ACT9053,US434,cambio clave,2024-05-13 08:00:00,reportes
+ACT9054,US451,logout,2024-11-17 16:00:00,seguridad
+ACT9055,US426,login,2024/08/29 16:00:00,seguridad
+ACT9056,US494,cambio clave,2024-01-03 05:00:00,reportes
+ACT9057,US463,crear pedido,2024-01-29 01:00:00,seguridad
+ACT9058,US457,anular pedido,2024-03-21 07:00:00,inventario
+ACT9059,US458,consulta,2024-07-31 04:00:00,reportes
+ACT9060,US518,cambio clave,2024-01-12 00:00:00,inventario
+ACT9061,US476,anular pedido,2024-01-12 08:00:00,reportes
+ACT9062,US483,logout,2024-04-27 19:00:00,inventario
+ACT9063,US437,actualizar pedido,2024-06-04 12:00:00,ventas
+ACT9064,US427,crear pedido,2024-07-18 23:00:00,reportes
+ACT9065,US504,anular pedido,2024/08/26 14:00:00,seguridad
+ACT9066,,actualizar pedido,,usuarios
+ACT9067,US457,crear pedido,2024-01-27 04:00:00,inventario
+ACT9068,US441,logout,2024-07-03 08:00:00,reportes
+ACT9069,US439,login,2024-12-06 12:00:00,inventario
+ACT9070,US473,actualizar pedido,2024-10-16 21:00:00,ventas
+ACT9071,US500,actualizar pedido,2024-01-02 20:00:00,inventario
+ACT9072,US464,cambio clave,2024-11-02 19:00:00,ventas
+ACT9073,US465,actualizar pedido,2024-07-13 01:00:00,ventas
+ACT9074,US464,login,2024-05-23 05:00:00,seguridad
+ACT9075,US519,login,2024-10-30 13:00:00,inventario
+ACT9076,US426,login,2024-02-21 00:00:00,usuarios
+ACT9077,US497,consulta,2024-01-09 09:00:00,reportes
+ACT9078,US478,anular pedido,,ventas
+ACT9079,US488,logout,2024-12-01 05:00:00,seguridad
+ACT9080,US451,anular pedido,2024-08-14 02:00:00,inventario
+ACT9081,US435, login ,2024-02-11 07:00:00,usuarios
+ACT9082,US499,crear pedido,2024-05-09 08:00:00,ventas
+ACT9083,US493,consulta,2024-02-22 03:00:00,reportes
+ACT9084,US402,logout,2024-05-10 04:00:00,inventario
+ACT9085,US452,consulta,2024-12-01 18:00:00,inventario
+ACT9086,US467,anular pedido,2024-01-10 08:00:00,inventario
+ACT9087,,actualizar pedido,2024-01-25 07:00:00,seguridad
+ACT9088,US468,logout,2024-08-19 05:00:00,ventas
+ACT9089,US435,cambio clave,2024-08-03 10:00:00,reportes
+ACT9090,US474,logout,2024-09-11 12:00:00,reportes
+ACT9091,US487,cambio clave,2024-11-10 05:00:00,usuarios
+ACT9092,US466,logout,2024-07-09 03:00:00,seguridad
+ACT9093,US433,cambio clave,2024-05-30 13:00:00,seguridad
+ACT9094,US511,anular pedido,2024-06-21 12:00:00,usuarios
+ACT9095,US470, actualizar pedido ,2024-05-24 11:00:00,ventas
+ACT9096,US474,actualizar pedido,2024-09-16 17:00:00,seguridad
+ACT9097,US514,anular pedido,2024-11-13 01:00:00,seguridad
+ACT9098,US449,logout,2024-03-03 09:00:00,usuarios
+ACT9099,US411,actualizar pedido,2024-05-12 01:00:00,inventario
+ACT9100,US423,anular pedido,2024-04-09 23:00:00,inventario
+ACT9101,US418,actualizar pedido,2024-08-20 02:00:00,reportes
+ACT9102,US407,cambio clave,2024-09-22 19:00:00,usuarios
+ACT9103,US468,logout,2024-02-18 18:00:00,inventario
+ACT9104,US400,anular pedido,2024-09-20 07:00:00,inventario
+ACT9105,US458,consulta,2024-08-22 01:00:00,inventario
+ACT9106,US430,cambio clave,2024-07-01 18:00:00,seguridad
+ACT9107,US464,consulta,2025/99/10,reportes
+ACT9108,US419,consulta,2024-05-01 09:00:00,ventas
+ACT9109,US519,anular pedido,2024-07-28 21:00:00,usuarios
+ACT9110,US489,cambio clave,2024-09-14 11:00:00,ventas
+ACT9111,US419,cambio clave,2024-05-02 16:00:00,seguridad
+ACT9112,US452,anular pedido,2024-11-23 07:00:00,inventario
+ACT9113,US450,crear pedido,2024-02-04 06:00:00,reportes
+ACT9114,US431,actualizar pedido,,ventas
+ACT9115,US459,consulta,,ventas
+ACT9116,US445,actualizar pedido,2024-11-09 16:00:00,seguridad
+ACT9117,US488,login,2024-01-10 02:00:00,inventario
+ACT9118,US446,consulta,2024-10-20 04:00:00,ventas
+ACT9119,US511,actualizar pedido,,ventas
+ACT9120,US493,anular pedido,2024-01-11 11:00:00,ventas
+ACT9121,US459,anular pedido,2024-12-04 21:00:00,seguridad
+ACT9122,US487,consulta,2024-10-20 00:00:00,usuarios
+ACT9123,US460,anular pedido,2024-02-19 14:00:00,inventario
+ACT9124,US418,anular pedido,2024-06-17 12:00:00,reportes
+ACT9125,US482,consulta,2024-01-17 07:00:00,seguridad
+ACT9126,US485, login ,2024-07-13 17:00:00,seguridad
+ACT9127,US486,actualizar pedido,2024-03-20 10:00:00,ventas
+ACT9128,US420,actualizar pedido,2024-05-22 08:00:00,inventario
+ACT9129,US510,consulta,2024-10-08 23:00:00,reportes
+ACT9130,US444,crear pedido,2024-01-26 13:00:00,inventario
+ACT9131,US431,actualizar pedido,2024-02-04 14:00:00,seguridad
+ACT9132,US493,crear pedido,2024-02-28 19:00:00,seguridad
+ACT9133,US416,logout,2024-05-19 00:00:00,inventario
+ACT9134,US437,anular pedido,2024-08-03 19:00:00,seguridad
+ACT9135,US458,actualizar pedido,2024-02-21 05:00:00,usuarios
+ACT9136,US504,consulta,2024-02-05 15:00:00,ventas
+ACT9137,US400,crear pedido,2024-11-23 17:00:00,inventario
+ACT9138,US421,actualizar pedido,2024-07-25 02:00:00,seguridad
+ACT9139,US419,consulta,2024/05/20 08:00:00,inventario
+ACT9140,US489,consulta,2024-08-18 11:00:00,seguridad
+ACT9141,US505,cambio clave,2024-11-06 14:00:00,reportes
+ACT9142,US451,actualizar pedido,2024-09-15 13:00:00,ventas
+ACT9143,US414,logout,2024-03-18 20:00:00,inventario
+ACT9144,US440,actualizar pedido,2024-06-13 05:00:00,inventario
+ACT9145,US473,consulta,2024/09/09 05:00:00,inventario
+ACT9146,US450,logout,2024-01-03 12:00:00,inventario
+ACT9147,US459,logout,2024-01-12 10:00:00,reportes
+ACT9148,US518,consulta,2024-05-03 22:00:00,seguridad
+ACT9149,US422,cambio clave,2024-10-26 03:00:00,inventario
+ACT9150,US462,anular pedido,2024-05-25 16:00:00,usuarios
+ACT9151,US440,logout,2024-05-04 18:00:00,inventario
+ACT9152,,crear pedido,2024-04-24 15:00:00,usuarios
+ACT9153,US408,consulta ,2024-02-20 19:00:00,usuarios
+ACT9154,US413,crear pedido,2024-08-27 03:00:00,seguridad
+ACT9155,US512,logout,2024-01-04 08:00:00,inventario
+ACT9156,US412,login,2024-07-01 08:00:00,ventas
+ACT9157,US407,logout,2024-05-17 15:00:00,seguridad
+ACT9158,US418,login,2024-01-03 18:00:00,reportes
+ACT9159,US429,actualizar pedido,,usuarios
+ACT9160,US515,consulta,2024-07-19 00:00:00,inventario
+ACT9161,US491,login,2024-01-17 23:00:00,usuarios
+ACT9162,US490,crear pedido,2024-12-03 11:00:00,ventas
+ACT9163,US406,crear pedido,2024-06-25 03:00:00,reportes
+ACT9164,US443,logout,2024-02-12 04:00:00,inventario
+ACT9165,US441,login,2024-05-23 02:00:00,inventario
+ACT9166,US443,logout,2024-01-12 16:00:00,ventas
+ACT9167,US489,logout,2024-11-01 15:00:00,usuarios
+ACT9168,US402,logout,2024-08-22 23:00:00,inventario
+ACT9169,US468,cambio clave,2024-02-14 16:00:00,seguridad
+ACT9170,US449,logout,2024/03/11 00:00:00,usuarios
+ACT9171,US451,crear pedido,2024-10-13 17:00:00,seguridad
+ACT9172,US513,actualizar pedido,2024-01-08 14:00:00,reportes
+ACT9173,US483,consulta ,2024-12-02 08:00:00,reportes
+ACT9174,US492,crear pedido,2024-07-03 18:00:00,usuarios
+ACT9175,US508,consulta,2024-02-15 06:00:00,usuarios
+ACT9176,US482,consulta,2024-03-20 00:00:00,seguridad
+ACT9177,US424,crear pedido,2024-05-14 06:00:00,seguridad
+ACT9178,US476,crear pedido,2024-03-12 13:00:00,seguridad
+ACT9179,US478,anular pedido,2024-08-17 09:00:00,seguridad
+ACT9180,US423,logout,2024-07-18 13:00:00,reportes
+ACT9181,US475,logout,2024-05-11 13:00:00,ventas
+ACT9182,US449,anular pedido,2024-06-07 23:00:00,reportes
+ACT9183,US456,actualizar pedido,2024-05-29 15:00:00,inventario
+ACT9184,US448,cambio clave,2024-05-22 14:00:00,reportes
+ACT9185,US472,crear pedido,2024-07-19 04:00:00,reportes
+ACT9186,US484,login,2024-03-13 05:00:00,reportes
+ACT9187,US456,logout,2024-03-07 20:00:00,reportes
+ACT9188,US442,login,2024-06-06 12:00:00,usuarios
+ACT9189,US415,crear pedido,2024-05-18 01:00:00,reportes
+ACT9190,US483,cambio clave,2024-11-19 18:00:00,inventario
+ACT9191,US503,cambio clave,2024-10-22 16:00:00,usuarios
+ACT9192,US508,login ,2024-03-10 17:00:00,usuarios
+ACT9193,US491,logout,2024-01-28 16:00:00,usuarios
+ACT9194,US437,crear pedido,2024-05-10 20:00:00,inventario
+ACT9195,US9999,logout,2024-01-10 07:00:00,usuarios
+ACT9196,US501,crear pedido,2024-04-23 05:00:00,reportes
+ACT9197,US463,crear pedido,2024-10-26 08:00:00,ventas
+ACT9198,US472,actualizar pedido,2024-01-11 18:00:00,inventario
+ACT9199,US459,crear pedido,2024-09-14 14:00:00,reportes
+ACT9200,US428,actualizar pedido,2024-06-13 01:00:00,seguridad
+ACT9201,US427,crear pedido,2024/10/29 20:00:00,usuarios
+ACT9202,US417,logout,2024-02-15 10:00:00,ventas
+ACT9203,US507,anular pedido,2024-03-13 01:00:00,seguridad
+ACT9204,US458,crear pedido,2024-12-05 07:00:00,seguridad
+ACT9205,US418, actualizar pedido ,2024-10-27 03:00:00,seguridad
+ACT9206,US444,logout,2024-04-29 07:00:00,seguridad
+ACT9207,US514,crear pedido,2024-03-28 13:00:00,seguridad
+ACT9208,US446,anular pedido,2024-09-16 10:00:00,seguridad
+ACT9209,US486,cambio clave,2024-08-30 07:00:00,seguridad
+ACT9210,US484,crear pedido,2024-08-29 22:00:00,usuarios
+ACT9211,US432,anular pedido,2024-01-13 17:00:00,ventas
+ACT9212,US487,cambio clave,2024-07-20 06:00:00,seguridad
+ACT9213,US404,logout,2024-08-18 16:00:00,seguridad
+ACT9214,US499,crear pedido,2024-06-28 08:00:00,usuarios
+ACT9215,US461,anular pedido ,2024-03-08 04:00:00,usuarios
+ACT9216,US495,login,2024-03-24 17:00:00,usuarios
+ACT9217,US483,cambio clave,2024-12-01 03:00:00,seguridad
+ACT9218,US497,crear pedido,2024-12-04 08:00:00,ventas
+ACT9219,US480,crear pedido,2024-03-26 02:00:00,usuarios
+ACT9220,US474,cambio clave,2024-11-19 07:00:00,ventas
+ACT9221,US453,anular pedido,2024-01-09 09:00:00,usuarios
+ACT9222,US466,anular pedido,2024-02-26 21:00:00,inventario
+ACT9223,US446,logout,2024-08-12 16:00:00,ventas
+ACT9224,US440,cambio clave,2024-07-09 11:00:00,seguridad
+ACT9225,US435,anular pedido,2024-09-02 02:00:00,usuarios
+ACT9226,US444,cambio clave,2024-12-06 12:00:00,inventario
+ACT9227,US445,consulta,2024-10-18 18:00:00,usuarios
+ACT9228,US513,login,2024-12-05 13:00:00,reportes
+ACT9229,US419,login,2024-05-23 18:00:00,inventario
+ACT9230,,consulta,2024-05-05 18:00:00,inventario
+ACT9231,US508,consulta,2024-08-03 09:00:00,inventario
+ACT9232,US464,consulta,2024-04-25 10:00:00,reportes
+ACT9233,US476,cambio clave,2024-10-30 14:00:00,inventario
+ACT9234,US475,cambio clave,2024-03-09 19:00:00,usuarios
+ACT9235,US503, logout ,2024-04-27 08:00:00,reportes
+ACT9236,US467,logout,2024-07-20 10:00:00,usuarios
+ACT9237,US475,anular pedido,2024-06-11 17:00:00,reportes
+ACT9238,US492,consulta,2024-04-17 05:00:00,inventario
+ACT9239,US507,logout,2024-06-14 09:00:00,reportes
+ACT9176,US482,consulta,2024-03-20 00:00:00,seguridad
+ACT9175,US508,consulta,2024-02-15 06:00:00,usuarios
+ACT9134,US437,anular pedido,2024-08-03 19:00:00,seguridad
+ACT9189,US415,crear pedido,2024-05-18 01:00:00,reportes
+ACT9044,US438,consulta,2024-03-08 12:00:00,ventas
+ACT9060,US518,cambio clave,2024-01-12 00:00:00,inventario

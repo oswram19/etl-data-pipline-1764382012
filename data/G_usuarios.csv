@@ -1,0 +1,126 @@
+id_usuario,usuario,correo,rol,estado
+US400,user_0,user015@gmail.com,operador,inactivo
+US401,user_1,user148@correo.sv,operador,bloqueado
+US402, user_2 ,user223gmail.com,operador,activo
+US403,user_3,user310@outlook.com,supervisor,activo
+US404,user_4,user493@gmail.com, auditor ,activo
+US405,user_5,user595@empresa.com,supervisor,bloqueado
+US406,user_6,user696@outlook.com,analista,inactivo
+US407,user_7,user796@gmail.com,analista,inactivo
+US408,user_8,user835@gmail.com,analista,bloqueado
+US409,user_9,user925@empresa.com,analista,inactivo
+US410,user_10,user1010@empresa.com,operador,activo
+US411,user_11,user1164@gmail.com,auditor,bloqueado
+US412,user_12,,admin,bloqueado
+US413,user_13,user1386@empresa.com,admin,activo
+US414,user_14,user1498@correo.sv, analista ,inactivo
+US415,user_15,user1560@correo.sv,auditor,bloqueado
+US416,user_16,user1626@gmail.com,supervisor,bloqueado
+US417,user_17 ,user1738@gmail.com,supervisor,activo
+US418,user_18,user1831@outlook.com,analista,activo
+US419,user_19,user1937@gmail.com,analista,inactivo
+US420,user_20 ,user2018gmail.com,supervisor,inactivo
+US421,user_21,user2155@correo.sv,admin,inactivo
+US422,user_22,user2289@correo.sv,admin,inactivo
+US423,user_23,user2320@correo.sv,operador,activo
+US424,user_24,user2437@empresa.com,admin,bloqueado
+US425,user_25,user2552@empresa.com,supervisor,activo
+US426,user_26,user2675@outlook.com,analista,bloqueado
+US427,user_27,user2799@correo.sv, supervisor ,inactivo
+US428, user_28 ,user2824@correo.sv,supervisor,bloqueado
+US429,user_29,user2998empresa.com,operador,inactivo
+US430,user_30,user3050@empresa.com,admin,inactivo
+US431,user_31,user3143@gmail.com,admin,activo
+US432,user_32,user3251@empresa.com,supervisor,activo
+US433,user_33,,operador,bloqueado
+US434,user_34,user3434@correo.sv,supervisor,bloqueado
+US435,user_35,user3566@outlook.com,auditor,inactivo
+US436,user_36,user3632@gmail.com,auditor,inactivo
+US437,user_37,user3750@gmail.com,admin,bloqueado
+US438,user_38,user3818@outlook.com,supervisor,activo
+US439,user_39,user3922@correo.sv,admin,activo
+US440,user_40,user4044@outlook.com,auditor,inactivo
+US441,user_41,user4162@empresa.com,auditor,activo
+US442,user_42,user4234@correo.sv,supervisor,bloqueado
+US443,user_43,user4336@outlook.com,operador,bloqueado
+US444,user_44,user4458@empresa.com,admin,inactivo
+US445,user_45,user4561@gmail.com,supervisor,activo
+US446,user_46,user4635@gmail.com,auditor,inactivo
+US447,user_47,user4785@outlook.com,admin,bloqueado
+US448,user_48,user4868@outlook.com,analista,activo
+US449,user_49,user497@outlook.com,admin,inactivo
+US450,user_50,user5030@outlook.com,operador,bloqueado
+US451,user_51,user5193@correo.sv,supervisor,activo
+US452,user_52,user5210@correo.sv,supervisor,activo
+US453,user_53,user532@correo.sv,operador,activo
+US454,user_54,user5493@empresa.com,admin,activo
+US455,user_55,user5518@empresa.com,admin,activo
+US456,user_56,user5670@gmail.com,auditor,inactivo
+US457,user_57,user5792@empresa.com,admin,activo
+US458,user_58,user5846@outlook.com,analista,bloqueado
+US459,user_59,sin_correo,operador,inactivo
+US460,user_60,user6053@empresa.com,auditor,inactivo
+US461,user_61,user6181@empresa.com, supervisor ,bloqueado
+US462, user_62 ,user6248@outlook.com,operador,bloqueado
+US463,user_63,user6364@gmail.com,supervisor,bloqueado
+US464,user_64,user6474@empresa.com,operador,activo
+US465,user_65 ,user6579@outlook.com,supervisor,bloqueado
+US466,user_66,user6619@empresa.com,supervisor,activo
+US467,user_67,user6716@gmail.com,auditor,inactivo
+US468,user_68,user6855@correo.sv,admin,activo
+US469,user_69,user6990@empresa.com,admin,inactivo
+US470,user_70,user7022@outlook.com,operador,inactivo
+US471,user_71,user7173@outlook.com,auditor,bloqueado
+US472,user_72,user7282@correo.sv,admin,activo
+US473,user_73,user7378@gmail.com,supervisor,inactivo
+US474,user_74,user7475@gmail.com,operador,inactivo
+US475,user_75,user7588@outlook.com,admin,activo
+US476,user_76,user7675@correo.sv,analista,inactivo
+US477,user_77,sin_correo, admin ,activo
+US478,user_78,user784@outlook.com,supervisor,activo
+US479,user_79,user7957@gmail.com,auditor,inactivo
+US480,user_80,user8085@empresa.com,operador,activo
+US481,user_81,user8117@empresa.com,supervisor,bloqueado
+US482,user_82,user8253@outlook.com,supervisor,bloqueado
+US483, user_83 ,user8354@outlook.com,analista,activo
+US484,user_84,sin_correo,supervisor,inactivo
+US485,user_85,user8582@gmail.com,analista,inactivo
+US486,user_86,user862@empresa.com,supervisor,bloqueado
+US487,user_87,user8768@gmail.com,admin,activo
+US488,user_88,user888@correo.sv,operador,bloqueado
+US489,user_89,user8933@gmail.com,auditor ,bloqueado
+US490,user_90,,analista,activo
+US491,user_91,user9180@gmail.com,auditor,inactivo
+US492, user_92 ,user9283@outlook.com,operador ,inactivo
+US493,user_93,user9385@correo.sv,analista ,activo
+US494,user_94,sin_correo,supervisor,inactivo
+US495,user_95,user9552@empresa.com,analista,activo
+US496,user_96,user9679@outlook.com,auditor,inactivo
+US497,user_97,,operador,activo
+US498,user_98,user988@empresa.com,supervisor,inactivo
+US499,user_99,user9992@empresa.com,admin,bloqueado
+US500,user_100,user1002@outlook.com,supervisor,inactivo
+US501,user_101,sin_correo,supervisor,inactivo
+US502,user_102,user10255@outlook.com,admin,activo
+US503, user_103 ,user10338@outlook.com,supervisor,bloqueado
+US504,user_104,user1049@correo.sv,supervisor,bloqueado
+US505,user_105,user10546@outlook.com,auditor,inactivo
+US506,user_106,user10676@outlook.com,admin,activo
+US507,user_107,user10727@correo.sv,analista,inactivo
+US508,user_108,user10894@gmail.com,supervisor,activo
+US509,user_109,user10993@empresa.com,supervisor,bloqueado
+US510,user_110,user11092gmail.com,auditor,inactivo
+US511,user_111,user11155@gmail.com,supervisor,activo
+US512,user_112 ,user11285@correo.sv,auditor,activo
+US513,user_113,user11398@gmail.com,auditor,inactivo
+US514,user_114,user11429@correo.sv,supervisor,bloqueado
+US515,user_115,user11593@outlook.com,supervisor,activo
+US516,user_116,sin_correo,supervisor,activo
+US517,user_117,user11757@empresa.com,admin,inactivo
+US518,user_118,user11824@empresa.com,operador,activo
+US519,user_119,user11942@empresa.com,operador,activo
+US512,user_112 ,user11285@correo.sv,auditor,activo
+US474,user_74,user7475@gmail.com,operador,inactivo
+US479,user_79,user7957@gmail.com,auditor,inactivo
+US487,user_87,user8768@gmail.com,admin,activo
+US497,user_97,,operador,activo
