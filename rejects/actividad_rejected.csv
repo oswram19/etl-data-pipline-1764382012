@@ -1,0 +1,17 @@
+id_actividad,id_usuario,accion,fecha_actividad,modulo
+ACT9015,US447,crear pedido,31/15/2024,usuarios
+ACT9029,US491,crear pedido,2025/99/10,usuarios
+ACT9040,US460,anular pedido,2024/08/21 14:00:00,seguridad
+ACT9055,US426,login,2024/08/29 16:00:00,seguridad
+ACT9065,US504,anular pedido,2024/08/26 14:00:00,seguridad
+ACT9066,,actualizar pedido,,usuarios
+ACT9078,US478,anular pedido,,ventas
+ACT9107,US464,consulta,2025/99/10,reportes
+ACT9114,US431,actualizar pedido,,ventas
+ACT9115,US459,consulta,,ventas
+ACT9119,US511,actualizar pedido,,ventas
+ACT9139,US419,consulta,2024/05/20 08:00:00,inventario
+ACT9145,US473,consulta,2024/09/09 05:00:00,inventario
+ACT9159,US429,actualizar pedido,,usuarios
+ACT9170,US449,logout,2024/03/11 00:00:00,usuarios
+ACT9201,US427,crear pedido,2024/10/29 20:00:00,usuarios
